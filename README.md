@@ -49,7 +49,7 @@
 <br>
   <br>
   
-[![@broskidix's Holopin board](https://holopin.me/broskidix)](https://holopin.io/@broskidix)
+
  
 [![Dixant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=broskidix&theme=tokyonight)](https://git.io/praveenscience)
 
