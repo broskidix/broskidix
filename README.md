@@ -17,13 +17,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a Flutter (Frontend) + python (Backend) project
+- 🔭I’m currently working on some mini projects and practicing data structures and algorithms regularly.
 
-- 🌱 I’m currently doint competitive programming. 
+- 🌱 I like doing competitive programming. 
 
-- 👯 I’m looking to collaborate on Projects
+- 👯 I ❤️ creating some innovative things from thought process to implementation which have become my passion.🌟
 
-- 💬 Talk to me about Flutter, Competitve Programming, C, C++, Python, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Competitve Programming, C, C++, Freelancing Opportunites, Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/broskidix?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
