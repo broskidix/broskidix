@@ -40,7 +40,7 @@
 <a href = 'https://www.linkedin.com/in/dixant-d-a21292205/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/d_dixant'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/broskidix'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  <a href = 'https://www.facebook.com/profile.php?id=100005128125369'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
+  <a href = 'https://www.facebook.com/dikshant.chauhan.142/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
   <a href = 'https://www.instagram.com/_.dikshant_1/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
   <a href = 'https://codeforces.com/profile/krishnathecoder06'> <img width = '32px' align= 'center' src="https://codeforces-upsolving-helper.herokuapp.com/static/images/codeforces-icon.png"/></a>
   <a href = 'https://www.codechef.com/users/krishnathcoder'> <img width = '80px' align= 'center' src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"/></a>
